@@ -1,0 +1,8 @@
+server:
+  port: 8084
+  servlet:
+    context-path: /bruno-sp
+
+spring:
+  thymeleaf:
+    cache: false
